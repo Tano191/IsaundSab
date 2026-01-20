@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+
 public class PlayerMovementTutorial : MonoBehaviour
 {
     [Header("Movement")]
@@ -12,7 +13,7 @@ public class PlayerMovementTutorial : MonoBehaviour
     [Header("Jumping")]
     public float jumpForce = 6f;
     public float jumpCooldown = 0.25f;
-    public float gravity = -5;
+    public float gravity = -20;
     private bool readyToJump = true;
 
     [Header("Keybinds")]
@@ -57,6 +58,12 @@ public class PlayerMovementTutorial : MonoBehaviour
             groundDistance,
             whatIsGround
         );
+
+        // DEBUG: Always tell whether grounded is false or true
+        if (!grounded)
+            Debug.Log("Grounded: FALSE");
+        else
+            Debug.Log("Grounded: TRUE");
 
         // Stick player to ground
         if (grounded && velocity.y < 0)

@@ -1,5 +1,5 @@
+﻿using System.Collections;
 using UnityEngine;
-using System.Collections;
 
 public class PewPew : MonoBehaviour
 {
@@ -12,24 +12,35 @@ public class PewPew : MonoBehaviour
     public Transform bulletSpawnTransform;
     public GameObject bulletPrefab;
 
+    [Header("Aiming / Zoom")]
+    public Camera playerCamera;
+    public float normalFOV = 77f;
+    public float aimFOV = 40f;
+    public float zoomSpeed = 10f;
+
     public int maxAmmo = 26;
     private int currentAmmo;
     public float realoadTime = 1f;
-    private bool isReloading = false;  
+    private bool isReloading = false;
 
     private float timer;
 
     public Animator animator;
 
+    // 🔊 AUDIO (added)
+    public AudioSource audioSource;
+    public AudioClip shootSound;
+    public AudioClip reloadSound;
+
     private void Start()
     {
         currentAmmo = maxAmmo;
     }
+
     private void Update()
     {
         if (isReloading)
             return;
-
 
         if (currentAmmo <= 0)
         {
@@ -37,31 +48,49 @@ public class PewPew : MonoBehaviour
             return;
         }
 
-
-        if(timer > 0)
+        if (timer > 0)
         {
             timer -= Time.deltaTime / fireRate;
         }
 
         if (isAuto)
         {
-            if(Input.GetButton("Fire1")&& timer <= 0)
+            if (Input.GetButton("Fire1") && timer <= 0)
             {
                 Shoot();
             }
         }
         else
         {
-            if(Input.GetButtonDown("Fire1")&& timer <= 0)
+            if (Input.GetButtonDown("Fire1") && timer <= 0)
             {
                 Shoot();
             }
         }
+
+        HandleZoom();
+    }
+
+    void HandleZoom()
+    {
+        float targetFOV = normalFOV;
+
+        if (Input.GetButton("Fire2"))
+        {
+            targetFOV = aimFOV;
+        }
+
+        playerCamera.fieldOfView = Mathf.Lerp(
+            playerCamera.fieldOfView,
+            targetFOV,
+            Time.deltaTime * zoomSpeed
+        );
     }
 
     IEnumerator Reload()
     {
-        isReloading = true; 
+        audioSource.PlayOneShot(reloadSound);
+        isReloading = true;
         Debug.Log("Reloading..");
 
         animator.SetBool("Reloading", true);
@@ -80,12 +109,25 @@ public class PewPew : MonoBehaviour
     {
         currentAmmo--;
 
-        GameObject bullet = Instantiate(bulletPrefab, bulletSpawnTransform.position, Quaternion.identity, GameObject.FindGameObjectWithTag("WorldObjectHolder").transform);
-        bullet.GetComponent<Rigidbody>().AddForce(bulletSpawnTransform.forward * bulletSpeed, ForceMode.Impulse);
+        // 🔊 PLAY SOUND (only addition)
+        if (shootSound != null)
+            audioSource.PlayOneShot(shootSound);
+
+        GameObject bullet = Instantiate(
+            bulletPrefab,
+            bulletSpawnTransform.position,
+            Quaternion.identity,
+            GameObject.FindGameObjectWithTag("WorldObjectHolder").transform
+        );
+
+        bullet.GetComponent<Rigidbody>().AddForce(
+            bulletSpawnTransform.forward * bulletSpeed,
+            ForceMode.Impulse
+        );
+
         bullet.GetComponent<Bullet>().damage = bulletDamage;
         bullet.transform.rotation = bulletSpawnTransform.rotation;
 
         timer = 1;
-
     }
 }

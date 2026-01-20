@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\beeep boop\\IsaundSab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|c:\\beeep boop\\isaundsab\\assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|c:\\beeep boop\\isaundsab\\assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\retrybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\retrybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\fpsenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\fpsenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\fpsenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\fpsenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\collectcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\collectcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +58,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "PewPew.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PewPew.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\PewPew.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PewPew.cs",
+              "RelativeToolTip": "Assets\\skript\\PewPew.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:04:08.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RetryButton.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\RetryButton.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\RetryButton.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\RetryButton.cs",
+              "RelativeToolTip": "Assets\\skript\\RetryButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:17:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountDown.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\CountDown.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\CountDown.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\CountDown.cs",
+              "RelativeToolTip": "Assets\\skript\\CountDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:42:48.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\HealthBar.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\skript\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:39:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectCounter.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\CollectCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\CollectCounter.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\CollectCounter.cs",
+              "RelativeToolTip": "Assets\\skript\\CollectCounter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T17:30:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Collectible.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Collectible.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Collectible.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Collectible.cs",
               "RelativeToolTip": "Assets\\skript\\Collectible.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T13:56:48.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IDamageable.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\IDamageable.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\IDamageable.cs",
@@ -67,27 +143,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\PlayerManager.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PlayerManager.cs",
               "RelativeToolTip": "Assets\\skript\\PlayerManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T15:57:32.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyAi.cs",
-              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\EnemyAi.cs",
-              "RelativeDocumentMoniker": "Assets\\skript\\Controllers\\EnemyAi.cs",
-              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\EnemyAi.cs",
-              "RelativeToolTip": "Assets\\skript\\Controllers\\EnemyAi.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T15:46:09.476Z"
             },
             {
               "$type": "Document",
@@ -103,15 +167,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Controllers\\PlayerHealth.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\skript\\Controllers\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T15:19:15.205Z"
+              "WhenOpened": "2025-12-21T15:19:15.205Z",
+              "EditorCaption": ""
             }
           ]
         }
