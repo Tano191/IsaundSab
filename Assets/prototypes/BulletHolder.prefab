@@ -95,7 +95,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 0.05
+  m_Radius: 0.08
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &8528600829546097156
 PrefabInstance:
@@ -169,7 +169,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5571030045958397225, guid: 76d6965a82c700547ac9c860a6e92ca9, type: 3}
+    - {fileID: 2548962759382072046, guid: 76d6965a82c700547ac9c860a6e92ca9, type: 3}
+    - {fileID: 7985191287381414445, guid: 76d6965a82c700547ac9c860a6e92ca9, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

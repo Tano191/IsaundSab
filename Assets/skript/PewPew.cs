@@ -24,13 +24,15 @@ public class PewPew : MonoBehaviour
     private bool isReloading = false;
 
     private float timer;
-
+    [Header("For the Fancy")]
     public Animator animator;
-
-    // 🔊 AUDIO (added)
+    public ParticleSystem shooteffect;
+    // audio
     public AudioSource audioSource;
     public AudioClip shootSound;
     public AudioClip reloadSound;
+
+
 
     private void Start()
     {
@@ -109,9 +111,10 @@ public class PewPew : MonoBehaviour
     {
         currentAmmo--;
 
-        // 🔊 PLAY SOUND (only addition)
+        // pew
         if (shootSound != null)
             audioSource.PlayOneShot(shootSound);
+            shooteffect.Play();
 
         GameObject bullet = Instantiate(
             bulletPrefab,

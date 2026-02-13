@@ -10,6 +10,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     private CharacterController characterController;
     private Rigidbody rb;
+    private bool isRespawning = false;
 
     private void Awake()
     {
@@ -36,6 +37,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     private System.Collections.IEnumerator Respawn()
     {
+        isRespawning = true;
+
         if (characterController != null)
             characterController.enabled = false;
 

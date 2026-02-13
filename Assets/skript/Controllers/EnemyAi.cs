@@ -15,6 +15,7 @@ public class EnemyAi : MonoBehaviour
     private NavMeshAgent agent;
     private Transform player;
     private float lastAttackTime;
+    public Animator animator;
 
     private void Awake()
     {
@@ -38,9 +39,14 @@ public class EnemyAi : MonoBehaviour
         }
 
         float distance = Vector3.Distance(transform.position, player.position);
+        bool isMoving = agent.velocity.magnitude > 0.1f;
+        animator.SetBool("Walking", true);
+
 
         if (distance > aggroRange)
         {
+            animator.SetBool("Idle", true);
+            animator.SetBool("Walking", false);
             agent.isStopped = true;
             agent.autoBraking = true;
             return;
@@ -51,8 +57,12 @@ public class EnemyAi : MonoBehaviour
         
         if (distance <= attackRange)
         {
+            Debug.Log(attackRange);
+            Debug.Log("player in Range");
             TryAttack();
         }
+        else
+            animator.SetBool("Attack1", false);
     }
 
     private void TryAttack()
@@ -65,7 +75,9 @@ public class EnemyAi : MonoBehaviour
 
         if (player.GetComponentInParent<IDamageable>() is IDamageable damageable)
         {
+           
             damageable.TakeDamage(damagePerTick);
+            animator.SetBool("Attack1", true);
             Debug.Log("Enemy attacking player");
         }
     }

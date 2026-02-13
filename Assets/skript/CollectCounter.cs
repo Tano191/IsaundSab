@@ -4,6 +4,11 @@ public class CollectCounter : MonoBehaviour
 {
     TMPro.TMP_Text text;
     int count;
+    public int GetCount()
+    {
+        return count;
+    }
+
 
     private void Awake()
     {

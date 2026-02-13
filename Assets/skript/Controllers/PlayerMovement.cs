@@ -34,23 +34,27 @@ public class PlayerMovementTutorial : MonoBehaviour
 
     private Vector3 moveDirection;
     private Vector3 velocity;
+    public bool isRespawning = false;
 
     private CharacterController controller;
 
     private void Start()
     {
         controller = GetComponent<CharacterController>();
+
         readyToJump = true;
     }
 
     private void Update()
     {
+        if (isRespawning || !controller.enabled)
+            return;
+
         GroundCheck();
         MyInput();
         MovePlayer();
         ApplyGravity();
     }
-
     private void GroundCheck()
     {
         grounded = Physics.CheckSphere(
