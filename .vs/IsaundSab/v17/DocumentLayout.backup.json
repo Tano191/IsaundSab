@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\beeep boop\\IsaundSab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|c:\\beeep boop\\isaundsab\\assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\beeep boop\\IsaundSab\\Temp\\Compiled-Standard Double Sided.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Standard Double Sided.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\pewpew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\controllers\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\gamefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|C:\\beeep boop\\IsaundSab\\assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BAAC2C7-8784-03D2-7024-55B9F5A86595}|Assembly-CSharp.csproj|solutionrelative:assets\\skript\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +58,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compiled-Standard Double Sided.shader",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Temp\\Compiled-Standard Double Sided.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Standard Double Sided.shader",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Temp\\Compiled-Standard Double Sided.shader",
+              "RelativeToolTip": "Temp\\Compiled-Standard Double Sided.shader",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-03-04T10:20:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PSX-VertexLitTransparentCutout.shader",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader",
+              "RelativeDocumentMoniker": "Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader",
+              "RelativeToolTip": "Assets\\PSXShaderKit\\Shaders\\PSX-VertexLitTransparentCutout.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-18T13:20:32.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PSX-Unlit.shader",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader",
+              "RelativeDocumentMoniker": "Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader",
+              "RelativeToolTip": "Assets\\PSXShaderKit\\Shaders\\PSX-Unlit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-18T13:14:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\skript\\Spawner.cs",
+              "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Spawner.cs",
+              "RelativeToolTip": "Assets\\skript\\Spawner.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA+wCgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:12:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Controllers\\PlayerMovement.cs",
@@ -58,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Controllers\\PlayerHealth.cs",
@@ -70,45 +134,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Enemy.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Enemy.cs",
               "RelativeToolTip": "Assets\\skript\\Enemy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:32:51.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T13:32:51.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PewPew.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PewPew.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\PewPew.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\PewPew.cs",
               "RelativeToolTip": "Assets\\skript\\PewPew.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T14:06:49.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T14:06:49.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnemyAi.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\EnemyAi.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Controllers\\EnemyAi.cs",
               "ToolTip": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Controllers\\EnemyAi.cs",
               "RelativeToolTip": "Assets\\skript\\Controllers\\EnemyAi.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T13:55:51.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "GameFinish.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\GameFinish.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\GameFinish.cs",
@@ -120,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CollectCounter.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\CollectCounter.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\CollectCounter.cs",
@@ -132,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Collectible.cs",
               "DocumentMoniker": "C:\\beeep boop\\IsaundSab\\Assets\\skript\\Collectible.cs",
               "RelativeDocumentMoniker": "Assets\\skript\\Collectible.cs",

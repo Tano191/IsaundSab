@@ -48,3 +48,16 @@ The following packages were updated:
   com.unity.test-framework from version 1.4.2 to 1.6.0
   com.unity.timeline from version 1.8.6 to 1.8.9
   com.unity.visualscripting from version 1.9.1 to 1.9.7
+
+=== Wed Feb 18 15:04:15 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.navigation from version 2.0.9 to 2.0.10
+  com.unity.collab-proxy from version 2.10.2 to 2.11.3
+  com.unity.ide.rider from version 3.0.38 to 3.0.39
+  com.unity.ide.visualstudio from version 2.0.23 to 2.0.26
+  com.unity.inputsystem from version 1.14.2 to 1.18.0
+  com.unity.timeline from version 1.8.9 to 1.8.10

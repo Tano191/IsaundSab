@@ -114,6 +114,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   orientation: {fileID: 6665322422958970592}
+  isRespawning: 0
 --- !u!120 &4551178757038463538
 LineRenderer:
   serializedVersion: 2
@@ -344,9 +345,17 @@ MonoBehaviour:
   isAuto: 1
   bulletSpawnTransform: {fileID: 1104998693350786643}
   bulletPrefab: {fileID: 1594728805158489253, guid: 53ff29052e5c37b45a9e745d65e74ab0, type: 3}
+  playerCamera: {fileID: 0}
+  normalFOV: 77
+  aimFOV: 40
+  zoomSpeed: 10
   maxAmmo: 10
   realoadTime: 1
   animator: {fileID: 159418809369107725}
+  shooteffect: {fileID: 0}
+  audioSource: {fileID: 0}
+  shootSound: {fileID: 0}
+  reloadSound: {fileID: 0}
 --- !u!143 &4852264403839799841
 CharacterController:
   m_ObjectHideFlags: 0
@@ -385,6 +394,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
+  healthBar: {fileID: 0}
+  respawnPoint: {fileID: 0}
 --- !u!1 &1606732685454332933
 GameObject:
   m_ObjectHideFlags: 0
