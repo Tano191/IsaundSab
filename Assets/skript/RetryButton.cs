@@ -6,6 +6,6 @@ public class RetryButton : MonoBehaviour
     // Restart the main game scene
     public void RestartGame()
     {
-        SceneManager.LoadScene("Mechanics"); // game scene name
+        SceneManager.LoadScene("TheMap"); // game scene name
     }
 }

@@ -18,6 +18,7 @@ public class Spawner : MonoBehaviour
     private int enemiesSpawned = 0;
 
     void Start()
+        //this script is a failure that didnt end up getting used properly
     {
         StartCoroutine(spawnEnemy(Enemy1Interval, EnemyPrefab1));
     }
